@@ -1,0 +1,4 @@
+Suma numerelor din fisier: 15.0
+Media aritmetica a numerelor din fisier: 5.0
+Valoarea maxima a numerelor din fisier: 8
+Valoarea minima a numerelor din fisier: 2
